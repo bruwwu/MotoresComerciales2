@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bruwu/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComerciales2/Content/Mats/Default.uasset",
+				"C:/Users/bruwu/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComerciales2/Content/Mats/m_hielo.uasset",
+				"C:/Users/bruwu/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComerciales2/Content/Main.umap",
+				"C:/Users/bruwu/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComerciales2/Content/01/01_T_ICE_Normal.uasset",
+				"C:/Users/bruwu/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComerciales2/Content/01/02_T_PerlinNoise.uasset",
+				"C:/Users/bruwu/OneDrive/Documentos/GitHub/MotoresComerciales2/MotoresComerciales2/Content/01/04_Resultado_Blueprint.uasset"
+			]
+		}
+	]
+}
